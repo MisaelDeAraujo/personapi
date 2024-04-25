@@ -1,4 +1,4 @@
-# Person APi
+# Person API
 Java RESTful API para cadastro de Pessoas e Endereços
 
 ```mermaid
