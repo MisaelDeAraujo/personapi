@@ -69,3 +69,6 @@ classDiagram
 * [**`Docker `**](https://www.docker.com/)
 
 <hr>
+
+## Ao iniciar o projeto, acesse a documentação
+[**`Swagger UI`**](http://localhost:8080/swagger-ui/index.html)
