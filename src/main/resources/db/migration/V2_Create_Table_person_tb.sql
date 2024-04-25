@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS user_tb(
+    id SERIAL PRIMARY KEY,
+    complete_name VARCHAR(50) NOT NULL,
+    birthday VARCHAR(20) UNIQUE NOT NULL
+);
