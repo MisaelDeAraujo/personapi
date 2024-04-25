@@ -70,5 +70,5 @@ classDiagram
 
 <hr>
 
-## Ao iniciar o projeto, acesse a documentação
+### Use comando maven `\mvn clean install` dentro do diretorio do projeto para buildar o .jar, depois inice o docker-compose com comando `docker-compose up`
 [**`Swagger UI`**](http://localhost:8080/swagger-ui/index.html)
